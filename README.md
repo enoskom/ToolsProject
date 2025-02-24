@@ -1,6 +1,5 @@
 # ToolsProject
 IP &amp; Web Insights
-IP & Web Insights
 
 IP & Web Insights, IP adresleri, ağ taraması ve web trafiği analizine yönelik kapsamlı bir araçtır. Bu araç, IP adreslerinin yerini tespit etmenin, ağınızdaki açık portları kontrol etmenin ve web siteleri hakkında bilgi edinmenin basit bir yolunu sunar. Ayrıca, IP adresinin konumunu, DNS bilgilerini ve SSL sertifikasını sorgulamak gibi daha ileri düzey analizler de sağlar.
 Özellikler
