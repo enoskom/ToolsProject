@@ -26,25 +26,20 @@ Gereksinimler
 
 Kurulum
 1. Python Yüklemesi
-
 Öncelikle Python 3.x sürümünü buradan indirip yükleyin.
+
 2. Gerekli Bağımlılıkları Yükleyin
-
 Aşağıdaki komutları kullanarak gerekli Python kütüphanelerini yükleyebilirsiniz:
-
 pip install requests
 pip install netifaces
 pip install whois
 
 3. Uygulamayı Çalıştırma
-
 Projenin bulunduğu dizinde terminali açarak aşağıdaki komutu çalıştırabilirsiniz:
-
-python app.py
-
+python ip_web.py
 Bu, GUI arayüzünü açacaktır ve artık IP & Web Insights aracını kullanmaya başlayabilirsiniz.
-Kullanım
 
+Kullanım
 IP & Web Insights uygulamasının sunduğu bazı ana işlevler şunlardır:
 1. Public IP: Public IP'nizi almak için "PUBLIC" butonuna tıklayın.
 2. Private IP: Yerel ağınızdaki private IP adresini görmek için "PRIVATE" butonuna tıklayın.
@@ -52,15 +47,13 @@ IP & Web Insights uygulamasının sunduğu bazı ana işlevler şunlardır:
 4. Port Scan: Belirli bir IP adresindeki açık portları taramak için "PORTSCAN" butonuna tıklayın.
 5. Yerel Ağ Tarama: Yerel ağınızdaki aktif cihazları taramak için "LOCAL" butonuna tıklayın.
 6. DNS ve IP Çözme:
-
     Bir domain ismi girerek IP adresini öğrenmek için "FIND IP" butonuna basın.
     Bir IP adresini girerek, o IP'nin bağlı olduğu hostname’i öğrenmek için "FIND DNS" butonuna basın.
-
 7. DNS All: Bir domainin tüm IP adreslerini listelemek için "DNS ALL" butonuna basın.
 8. WHOIS: Alan adı için WHOIS bilgilerini almak için "WHOIS" butonuna tıklayın.
 9. SSL Sertifikası: Bir domainin SSL sertifikasını kontrol etmek için "SSL" butonuna tıklayın.
-Katkı Sağlama
 
+Katkı Sağlama
 Eğer projeye katkı sağlamak isterseniz, lütfen şu adımları izleyin:
 
     Bu depoyu çatallayın (fork).
